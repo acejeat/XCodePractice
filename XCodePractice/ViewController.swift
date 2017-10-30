@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         firstLabel.text = "Buttons are Cool!"
         print("ButtonPushed")
         firstLabel.textColor = UIColor.green
-        //Change text to "Buttons are Cool!", text color green.
+        //Change text to "Buttons are Cool!", text color green
     }
     override func viewDidLoad() {
         super.viewDidLoad()
